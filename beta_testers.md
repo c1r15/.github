@@ -2,10 +2,10 @@
 
 ## Brian
 
- [![Brian ](https://github.com/c1r15/.github/blob/main/beta-users/brian.jpeg?raw=true)](https://github.com/c1r15/.github/blob/main/beta-users/brian.jpeg?raw=true)
+ [![Brian B](https://github.com/c1r15/.github/blob/main/beta-users/brian.jpeg?raw=true)](https://github.com/c1r15/.github/blob/main/beta-users/brian.jpeg?raw=true)
 
 ## Jorge
-[![Jorge ](https://github.com/c1r15/.github/blob/main/beta-users/jorge.jpeg?raw=true)](https://github.com/c1r15/.github/blob/main/beta-users/jorge.jpeg?raw=true)
+[![Jorge C](https://github.com/c1r15/.github/blob/main/beta-users/jorge.jpeg?raw=true)](https://github.com/c1r15/.github/blob/main/beta-users/jorge.jpeg?raw=true)
 
 ## Vanessa
 
@@ -13,4 +13,4 @@
 
 ## Danielle
 
-[![Danielle  S](https://github.com/c1r15/.github/blob/main/beta-users/danielle.jpeg?raw=true)](https://github.com/c1r15/.github/blob/main/beta-users/danielle.jpeg?raw=true)
+[![Danielle S](https://github.com/c1r15/.github/blob/main/beta-users/danielle.jpeg?raw=true)](https://github.com/c1r15/.github/blob/main/beta-users/danielle.jpeg?raw=true)
